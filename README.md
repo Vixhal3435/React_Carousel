@@ -231,7 +231,8 @@ button:hover {
 ```
 
 ## OUTPUT
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="1037" height="548" alt="image" src="https://github.com/user-attachments/assets/ac207c96-428b-4240-b224-bf3bd6ca407d" />
+<img width="1040" height="544" alt="image" src="https://github.com/user-attachments/assets/8c016040-885a-4403-a34f-4b22402348b3" />
+
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
